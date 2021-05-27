@@ -52,6 +52,11 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+###
+*Pipfile
+*Pipfile.lock
+###
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
